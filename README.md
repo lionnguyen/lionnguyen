@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lionnguyen
+- 👋 Hi, I’m Lion
 - 👀 I’m interested in Web App
 - 🌱 I’m currently learning React
 - 📫 Nguyenminhhieu811@gmail.com
